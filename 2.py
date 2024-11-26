@@ -2,5 +2,5 @@
 n = 7
 db=1
 for i in range(1,n+1):
-    db = db * i
+    db *= i
 print(db)
