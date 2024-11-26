@@ -1,0 +1,68 @@
+For és while ciklus
+
+1. Készítsünk programot, amely kiszámolja az első 100 db természetes szám összegét, majd kiírja az eredményt. 
+    
+2. Készítsünk programot, amely kiszámolja az első 7 db természetes szám szorzatát egy ciklus segítségével. 
+   
+3. Készítsünk programot, amely kiszámolja az első 100 db páros szám összegét 
+  
+4. Készítsünk programot, amely kiszámolja az első 100 db páratlan szám összegét 
+
+5. Írja ki az első 20 számból a) párosakat b) páratlanokat
+
+6. Számítsd ki a felhasználó által bevitt n szám átlagát
+
+7. Számítsd ki a felhasználó által megadott a-tól b-ig terjedő számok összegét, átlagát
+
+8. Írj programot, mely beolvas egy pozitív egész számot, és kiírja az egész számokat a
+képernyőre eddig a számig, egymástól szóközzel elválasztva!
+
+9. Írj programot, mely beolvas egy pozitív egész számot, és kiírja az osztóit!
+
+10. Írj programot, mely beolvas egy pozitív egész számot, és kiírja az osztóinak az
+összegét!
+
+11. Írjunk oktatóprogramot, amely az összeadást és a kivonást gyakoroltatja! Az egész számokat véletlenszerűen  állítsuk  elő!  A  felhasználó  csak -5  és  +15  között  képes  a  műveleteket elvégezni. Adjunk 10 feladatot, és a felhasználó minden helyes megoldása 1 pontot érjen! Osztályozzuk  le  a  feladatsort,  és  az  osztályzatot  írjuk  ki  a  képernyőre  úgy,  hogy  0-2-ig elégtelen,  3-4-ig  elégséges,  5-6-ig  közepes,  7-8-ig  jó,  e  fölött  pedig  jeles  legyen!
+
+12. Írj programot, mely beolvas egy pozitív egész számot, és megmondja, hogy
+tökéletes szám-e! (A tökéletes számok azok, melyek osztóinak összege egyenlő a
+szám kétszeresével. Ilyen szám pl. a 6, mert 2*6 = 1 + 2 + 3 + 6.)
+
+13. Írj programot, ami csak pozitív számot hajlandó beolvasni.
+
+14. Írj programot, amely beolvas egy egész számot, majd elosztja 2-vel annyiszor,
+ahányszor lehet és közben felírja a számot a kettes számok szorzataként
+megszorozva egy olyan számmal, amely már nem osztható 2-vel. Például:
+Kérek egy egész számot: 120
+120 = 2*2*2*15
+Ha a szám egyszer sem osztható kettővel, akkor:
+Kérek egy egész számot: 17
+17 = 17
+
+15. Írj programot, mely eldönti egy számról, hogy prímszám-e.
+
+16. Írj programot, mely beolvas egy számot, és kiírja a szám prímosztóit!
+
+17. Írj programot, ami beolvas egy számot, majd kiírja a szám prímtényezős
+felbontását!
+
+Egymásba ágyazott ciklusok:
+18. Írj programot, ami beolvas egy számot, és kiírja az ilyen alapú szorzótáblát! 
+
+19. Írj programot, ami kiírja a kisbetűket, és melléjük az ASCII kódjukat! A kiírás több
+oszlopos legyen, és legfeljebb 10 soros. Minta:
+a 97 f 102 .....
+b 98 g 103 
+c 99 h 104
+d 100 i 105
+e 101 j 106
+
+20. Írj programot, ami a következő sormintával tölti ki a képernyő egy részét:
+XOXOXO
+OXOXOX
+XOXOXO
+OXOXOX
+XOXOXO
+OXOXOX
+A sorok és az oszlopok számát is olvassa be a program! ügyelj arra, hogy a mintában
+a páros sorok O-val, a páratlanok X-el kezdődnek!
