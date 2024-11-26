@@ -1,0 +1,53 @@
+#szám osztói
+n=int(input("A szám:"))
+
+
+osszeg=0
+for oszto in range(1, n+1):
+    if n%oszto==0:
+         osszeg+=oszto
+         print(oszto, end=" ")
+print(osszeg)
+
+print()
+#prím-e?
+db=0
+for i in range(1, n+1):
+    if n % i==0:
+        db+=1
+if db==2:
+    print("prímszám")
+else:
+    print("összetett szám")
+
+#tökéletes szám
+osszeg=0
+for oszto in range(1, n):
+    if n%oszto==0:
+        osszeg+=oszto
+if osszeg==n:
+    print("tökéletes szám")
+else:
+    print("tökéletlen")
+
+
+
+
+#prímtényezős felbontás
+
+oszto=2
+
+while oszto <= n:
+    if n%oszto==0:
+        print(oszto)
+        n/=oszto
+    else:
+        oszto+=1
+    
+#ox kiírása n-szer
+
+for i in range(n):
+    if i%2==0:
+        print("ox"*n)  
+    else:
+        print("xo"*n)
